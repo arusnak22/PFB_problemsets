@@ -1,0 +1,3 @@
+vi first_vi_file.txt
+i
+start typing your file contents. Remember that all keystrokes are ones you want to see in your file and that your mouse will not work. save 
